@@ -1,4 +1,6 @@
 # Hummus
 ## Ingredients
-* chick
+* chickpeas
+* tahini
+* olive oil
 ### Instructions
